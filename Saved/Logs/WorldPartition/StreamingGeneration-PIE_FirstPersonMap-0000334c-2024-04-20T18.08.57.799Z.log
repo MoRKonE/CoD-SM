@@ -1,0 +1,134 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:034B892643E042493ADDDCA0E41D7658 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC01EE01_1309819665 Label:LandscapeSplineActor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18568.678 Y=-39703.566 Z=14132.369), Max=(X=-18568.678 Y=-39703.566 Z=14132.369) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3E81412D409C07A90C2AFFB15F9C438B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1825417898 Label:SM_Bridge_A_15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16021.469 Y=-12608.798 Z=12124.504), Max=(X=18315.724 Y=-11071.846 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:61391D344900612A77DFC3BA3E354907 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5610.000 Y=-50.000 Z=19830.000), Max=(X=-5610.000 Y=-50.000 Z=19830.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:6D0AF1EB45360E9C5A9539B8A9C51852 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1825413897 Label:SM_Bridge_A_14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14127.608 Y=-13516.152 Z=12124.504), Max=(X=16421.863 Y=-11979.199 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:7660D9B04339E3DE9CD999AB96D8982B BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC09EE01_1087911075 Label:LandscapeSplineActor6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17595.550 Y=-14688.871 Z=11119.835), Max=(X=76769.013 Y=22143.973 Z=13449.117) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:89E9823D4BB576A56258CE93ED2E49BA BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC01EE01_1237205664 Label:LandscapeSplineActor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20578.079 Y=-40426.561 Z=14470.284), Max=(X=-20578.079 Y=-40426.561 Z=14470.284) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:947B18EA43051E8C57C8A4B5450FFBF9 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC75ED01_1276585024 Label:LandscapeSplineActor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9516.075 Y=-25703.113 Z=14132.625), Max=(X=-9516.075 Y=-25703.113 Z=14132.625) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A9BD08CE462128C030E88C9D80728947 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1803427896 Label:SM_Bridge_A_13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12233.747 Y=-14423.505 Z=12124.504), Max=(X=14528.002 Y=-12886.553 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B6A113C844BCF8EC3D73A8AF9058B46A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_81P1O7SNNQW6X12Q8KHP4UJEC_1_2286_3556_0 Label:LandscapeStreamingProxy_2286_3556_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=32512.000 Y=195072.000 Z=129462.992), Max=(X=32512.000 Y=195072.000 Z=129462.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C22CE07C4B87D685137FDBBC10FC92C6 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-10.000 Y=0.000 Z=28390.000), Max=(X=-10.000 Y=0.000 Z=28390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:CFDBAA094A99F1F0903E1EBEA8F639E2 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC01EE01_1350759666 Label:LandscapeSplineActor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-29070.156 Y=-56141.991 Z=12908.298), Max=(X=10983.993 Y=-14317.272 Z=17190.340) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DF450D1B4038086F7CAA82A4876969B8 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_D843AE00CACCD0EC01_1719625984 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6000.000 Y=-6040.000 Z=0.000), Max=(X=-6000.000 Y=-6040.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E693237A4EFE01EE0EFE9FADD1DDDDBF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1206218895 Label:SM_Bridge_A_12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10339.886 Y=-15330.859 Z=12124.504), Max=(X=12634.141 Y=-13793.907 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F727780641DED8596EC308AB65502895 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_D843AE00CACC04ED01_2112490135 Label:Landscape10 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-260096.000 Y=-260096.000 Z=6595.805), Max=(X=113792.000 Y=65024.000 Z=129462.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F80621C9446867154938FE81375207DA BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:FECE0CE843F87AC3F17490A9EDF95C34 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC75ED01_1757997027 Label:LandscapeSplineActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=41502.624 Y=17925.193 Z=11973.824), Max=(X=41502.624 Y=17925.193 Z=11973.824) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:034B892643E042493ADDDCA0E41D7658 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC01EE01_1309819665 Label:LandscapeSplineActor4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-18568.678 Y=-39703.566 Z=14132.369), Max=(X=-18568.678 Y=-39703.566 Z=14132.369) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:3E81412D409C07A90C2AFFB15F9C438B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1825417898 Label:SM_Bridge_A_15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=16021.469 Y=-12608.798 Z=12124.504), Max=(X=18315.724 Y=-11071.846 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:61391D344900612A77DFC3BA3E354907 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5610.000 Y=-50.000 Z=19830.000), Max=(X=-5610.000 Y=-50.000 Z=19830.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:6D0AF1EB45360E9C5A9539B8A9C51852 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1825413897 Label:SM_Bridge_A_14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14127.608 Y=-13516.152 Z=12124.504), Max=(X=16421.863 Y=-11979.199 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:7660D9B04339E3DE9CD999AB96D8982B BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC09EE01_1087911075 Label:LandscapeSplineActor6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17595.550 Y=-14688.871 Z=11119.835), Max=(X=76769.013 Y=22143.973 Z=13449.117) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:89E9823D4BB576A56258CE93ED2E49BA BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC01EE01_1237205664 Label:LandscapeSplineActor3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20578.079 Y=-40426.561 Z=14470.284), Max=(X=-20578.079 Y=-40426.561 Z=14470.284) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:947B18EA43051E8C57C8A4B5450FFBF9 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC75ED01_1276585024 Label:LandscapeSplineActor2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9516.075 Y=-25703.113 Z=14132.625), Max=(X=-9516.075 Y=-25703.113 Z=14132.625) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:A9BD08CE462128C030E88C9D80728947 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1803427896 Label:SM_Bridge_A_13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12233.747 Y=-14423.505 Z=12124.504), Max=(X=14528.002 Y=-12886.553 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:B6A113C844BCF8EC3D73A8AF9058B46A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_81P1O7SNNQW6X12Q8KHP4UJEC_1_2286_3556_0 Label:LandscapeStreamingProxy_2286_3556_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=32512.000 Y=195072.000 Z=129462.992), Max=(X=32512.000 Y=195072.000 Z=129462.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:C22CE07C4B87D685137FDBBC10FC92C6 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-10.000 Y=0.000 Z=28390.000), Max=(X=-10.000 Y=0.000 Z=28390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:CFDBAA094A99F1F0903E1EBEA8F639E2 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC01EE01_1350759666 Label:LandscapeSplineActor5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-29070.156 Y=-56141.991 Z=12908.298), Max=(X=10983.993 Y=-14317.272 Z=17190.340) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:DF450D1B4038086F7CAA82A4876969B8 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_D843AE00CACCD0EC01_1719625984 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6000.000 Y=-6040.000 Z=0.000), Max=(X=-6000.000 Y=-6040.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:E693237A4EFE01EE0EFE9FADD1DDDDBF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:SM_Bridge_A_UAID_D843AE00CACC08EE01_1206218895 Label:SM_Bridge_A_12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=10339.886 Y=-15330.859 Z=12124.504), Max=(X=12634.141 Y=-13793.907 Z=13074.957) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:F727780641DED8596EC308AB65502895 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_D843AE00CACC04ED01_2112490135 Label:Landscape10 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-260096.000 Y=-260096.000 Z=6595.805), Max=(X=113792.000 Y=65024.000 Z=129462.992) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:F80621C9446867154938FE81375207DA BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:FECE0CE843F87AC3F17490A9EDF95C34 BaseClass: NativeClass:/Script/Landscape.LandscapeSplineActor Name:LandscapeSplineActor_UAID_D843AE00CACC75ED01_1757997027 Label:LandscapeSplineActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=41502.624 Y=17925.193 Z=11973.824), Max=(X=41502.624 Y=17925.193 Z=11973.824) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 25 
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonExampleMap_C_1
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Landscape_UAID_D843AE00CACC04ED01_2112490135
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/YU/JX4RKS8ZSVWWCCLBQZGZGF
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Landscape_UAID_D843AE00CACCD0EC01_1719625984
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/18/YLR8E3J4UR7NK30AZC4XCG
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeGizmoActiveActor_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeSplineActor_UAID_D843AE00CACC01EE01_1237205664
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/UX/YZTK66GJVR7KXAVQYC7UCJ
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeSplineActor_UAID_D843AE00CACC01EE01_1309819665
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/EA/P5U1W8010EZP2KLLLATF0F
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeSplineActor_UAID_D843AE00CACC01EE01_1350759666
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DH/A2SY8PR5WCBNSABSPM2MKJ
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeSplineActor_UAID_D843AE00CACC09EE01_1087911075
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/6B/RQHRWSTN6IKZ5WNPX04XJR
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeSplineActor_UAID_D843AE00CACC75ED01_1276585024
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/3F/ILD20VCH6XMUNN0J1A9725
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeSplineActor_UAID_D843AE00CACC75ED01_1757997027
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/HI/I5E4CYSUA26WLH3X5JFTSD
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_81P1O7SNNQW6X12Q8KHP4UJEC_1_2286_3556_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/23/EMN9DIGQYHP2URZHV39KDI
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SM_Bridge_A_UAID_D843AE00CACC08EE01_1206218895
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SZ/V2A8ADDB1J952HPLH2UINW
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SM_Bridge_A_UAID_D843AE00CACC08EE01_1803427896
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7M/5U14KN9ML72QZ4JLK9IG3B
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SM_Bridge_A_UAID_D843AE00CACC08EE01_1825413897
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3H/CJO211E9G53MVSYVOMPY4T
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SM_Bridge_A_UAID_D843AE00CACC08EE01_1825417898
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9E/LVW5506BLCCOBOXNHVGOTU
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
